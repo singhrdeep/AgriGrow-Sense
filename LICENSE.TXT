@@ -3,7 +3,7 @@ AgriGrow Sense - License
 Copyright (c) 2025 Ramandeep Singh. All rights reserved.
 
 This project, including all designs, schematics, code, and documentation,
-is the exclusive intellectual property of Ramandeep Torotane.
+is the exclusive intellectual property of Ramandeep Singh.
 
 Unauthorized reproduction, distribution, reverse engineering, public display,
 or commercial use of any part of this project is strictly prohibited without
