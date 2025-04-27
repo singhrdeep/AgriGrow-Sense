@@ -65,8 +65,7 @@ No matter the scale, healthy soil is the foundation of success.
 - **UV Exposure Detection** — Measures ultraviolet light intensity in the field.
 - **GPS Mapping** — Records the exact location of each soil sample.
 - **Live OLED Display** — Shows real-time sensor readings in the field.
-- **USB Serial Data Logging** — Exports full datasets to a computer for analysis and archiving.
-- **Bluetooth Wireless Communication** — Planned upgrade for wireless syncing with mobile devices.
+- **USB/Bluetooth Serial Data Logging** — Exports full datasets to a computer for analysis and archiving.
 - **Soil Health Recommendations** — Suggests basic improvements (e.g., lime for acidic soil, water for dry zones).
 - **Sample Mapping and Archiving** — Builds a GPS-tagged record of soil conditions across a field.
 - **Modular Expandable Design** — Easily add new sensors or features in the future.
