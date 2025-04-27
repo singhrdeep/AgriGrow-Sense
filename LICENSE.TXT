@@ -1,0 +1,20 @@
+AgriGrow Sense - License
+
+Copyright (c) 2025 Ramandeep Singh. All rights reserved.
+
+This project, including all designs, schematics, code, and documentation,
+is the exclusive intellectual property of Ramandeep Torotane.
+
+Unauthorized reproduction, distribution, reverse engineering, public display,
+or commercial use of any part of this project is strictly prohibited without
+express written permission from the copyright holder.
+
+This project is published for the purposes of documentation, concept demonstration,
+and personal educational use only. Future licensing terms and commercialization
+opportunities are subject to change at the sole discretion of the owner.
+
+By accessing, viewing, or downloading this repository, you agree not to copy,
+sell, sublicense, modify, or distribute any part of the project without explicit consent.
+
+For licensing inquiries, please contact:
+Ramandeep Singh
