@@ -112,8 +112,8 @@ The goal is to continuously refine accuracy and reliability based on real-world 
 AgriGrow Sense is following a step-by-step plan:
 
 - **Phase 1: Research and Parts Selection** — Completed 
-- **Phase 2: Digital Schematic Design (via Fritzing)** — In Progress
-- **Phase 3: Breadboard Assembly and Testing** — Coming Up
+- **Phase 2: Digital Schematic Design** — Completed
+- **Phase 3: Breadboard Assembly and Testing** — In Progress
 - **Phase 4: Firmware Development** — Coming Up
 - **Phase 5: Field Testing and Calibration** — Coming Up
 - **Phase 6: Final Assembly (Waterproof Enclosure)** — Coming Up
