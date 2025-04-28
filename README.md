@@ -9,7 +9,7 @@
 
 Precision agriculture is reshaping how we grow food, but the tools to support it are often out of reach for gardeners, smallholders, and independent farmers. High-end soil scanners from companies like **Isaria Scout**, **Topcon CropSpec**, and **Trimble GreenSeeker** typically cost anywhere from **$1,000 to $7,000+**, making them inaccessible for most people.
 
-**AgriGrow Sense** was created to change that. It's a DIY handheld soil scanner that offers real, science-based soil measurements for around **$150 CAD**, without cutting corners. Built from a passion for gardening and a future goal of opening my own farm, AgriGrow Sense aims to make soil health tools affordable and available to everyone.
+**AgriGrow Sense** was created to change that. It's a DIY handheld soil scanner that offers real, science-based soil measurements for around **$250 CAD**, without cutting corners. Built from a passion for gardening and a future goal of opening my own farm, AgriGrow Sense aims to make soil health tools affordable and available to everyone.
 
 ---
 
@@ -103,7 +103,7 @@ The goal is to continuously refine accuracy and reliability based on real-world 
 | Cheap 4-in-1 Soil Meters | $15–30 | Basic moisture and pH readings | Inaccurate, no calibration |
 | Bluelab/Extech/Hanna Instruments | $150–400 | pH, EC testing | No GPS, light, or UV data |
 | Isaria Scout / CropSpec / GreenSeeker | $5,000–7,000+ | NDVI crop canopy scanning | No deep soil sensing, extremely high cost |
-| **AgriGrow Sense** | ~$150 | pH, EC, Moisture, Temp, UV, Color, GPS, Light sensing | Soil-focused; no NDVI canopy scan (yet) |
+| **AgriGrow Sense** | ~$250 | pH, EC, Moisture, Temp, UV, Color, GPS, Light sensing | Soil-focused; no NDVI canopy scan (yet) |
 
 ---
 
